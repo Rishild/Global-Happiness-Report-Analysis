@@ -10,6 +10,9 @@ Using Power Query for data preparation and Power BI for visualization, the analy
 ->Global Happiness Report Analysis.pbix → Power BI Dashboard file with all visuals and insights.
 ->appended years.xlsx → Cleaned dataset prepared in Power Query, containing multiple years of happiness data.
 
+⬇ Download Link
+-> https://www.kaggle.com/datasets/unsdsn/world-happiness
+
 📊 Key Features of the Dashboard
 
 Country-wise Happiness Score & Ranking 📈
