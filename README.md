@@ -40,9 +40,11 @@ Comparison of factors such as:
 
 📸 Dashboard Preview
 
-<img width="1276" height="716" alt="Image" src="https://github.com/user-attachments/assets/7e449983-507c-4124-8f1d-2bfd7f57915f" />
 
 <img width="1374" height="777" alt="Image" src="https://github.com/user-attachments/assets/dc29a0f0-5905-4a8f-a45b-7a9e9e87eb42" />
+
+<img width="1276" height="716" alt="Image" src="https://github.com/user-attachments/assets/7e449983-507c-4124-8f1d-2bfd7f57915f" />
+
 
 
 
