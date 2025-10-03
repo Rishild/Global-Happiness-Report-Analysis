@@ -51,7 +51,7 @@ Comparison of factors such as:
 
 <img width="1374" height="777" alt="Image" src="https://github.com/user-attachments/assets/dc29a0f0-5905-4a8f-a45b-7a9e9e87eb42" />
 
-We have made another dashboard: 
+We have made another dashboard: https://github.com/assualduaa/Global-Happiness-Report.git
 
 ![Image](https://github.com/user-attachments/assets/60829ca0-b906-46f9-a472-bf649ef69820)
 
