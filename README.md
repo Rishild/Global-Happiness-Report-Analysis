@@ -44,6 +44,8 @@ Comparison of factors such as:
 
 <img width="1374" height="777" alt="Image" src="https://github.com/user-attachments/assets/dc29a0f0-5905-4a8f-a45b-7a9e9e87eb42" />
 
+We have made another dashboard: 
+
 
 
 
