@@ -5,6 +5,10 @@
 This project analyzes the World Happiness Report dataset, focusing on factors that influence happiness scores across different countries and years.
 Using Power Query for data preparation and Power BI for visualization, the analysis provides insights into global well-being, regional differences, and the key drivers of happiness.
 
+🎯 Aim of the Project
+
+The aim of this project is to analyze and visualize data from the Global Happiness Report to understand the key factors that influence happiness across different countries and years. By exploring indicators such as GDP per capita, social support, life expectancy, freedom, generosity, and corruption perception, the project seeks to provide insights into global well-being trends and highlight patterns that shape the quality of life worldwide.
+
 🗂️ Files in this Repository
 
 ->Global Happiness Report Analysis.pbix → Power BI Dashboard file with all visuals and insights.
@@ -53,6 +57,11 @@ We have made another dashboard:
 
 ![Image](https://github.com/user-attachments/assets/d75218bd-6582-4447-b3ed-1d2df8e74d78)
 
+Conclusion
+
+The Global Happiness Report analysis highlights the significant role of economic, social, and governance factors in shaping the well-being of nations. By comparing countries and regions over time, the project demonstrates that happiness is not determined by a single metric, but by a balanced combination of GDP per capita, social support, life expectancy, freedom, generosity, and trust in institutions.
+
+The interactive dashboards provide a clear and engaging way to explore these patterns, enabling policymakers, researchers, and the public to better understand the drivers of happiness. Ultimately, the project emphasizes that sustainable progress requires improving both economic prosperity and social well-being.
 
 
 
