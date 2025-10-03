@@ -46,9 +46,11 @@ Comparison of factors such as:
 
 We have made another dashboard: 
 
+![Image](https://github.com/user-attachments/assets/60829ca0-b906-46f9-a472-bf649ef69820)
+
 ![Image](https://github.com/user-attachments/assets/d75218bd-6582-4447-b3ed-1d2df8e74d78)
 
-![Image](https://github.com/user-attachments/assets/60829ca0-b906-46f9-a472-bf649ef69820)
+
 
 
 
