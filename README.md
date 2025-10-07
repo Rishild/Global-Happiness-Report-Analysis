@@ -31,6 +31,32 @@ Comparison of factors such as:
 -Regional analysis of happiness trends 🌍
 -Year-over-year comparison of global scores 📅
 
+Data Cleaning & Preparation Steps
+Load Data: Ingested the Excel file and opened it in the Power Query Editor (PQE) for transformation.
+Structural Review: Established relationships between the raw data sheets.
+
+Column Standardization:
+Renamed similar columns across all sheets to a common, matching name.
+Removed unnecessary columns to streamline the dataset.
+
+Data Quality Assurance:
+
+Validated and Corrected Data Types to ensure consistency with the reference sheet structure.
+Checked for and Addressed Null Values in key columns.
+Region Data Remediation (Harmonization for Merging):
+Created a Region Reference: Appended the 2015 and 2016 sheets, removing duplicates, to create a stable reference table (Append15&16) for the Region column.
+
+Merged Region Data: Performed a Left Join (Merge) from the main sheets to the reference table (Append15&16) to populate the missing Region values.
+
+Handled Mismatches: Corrected remaining nulls by identifying and renaming inconsistent country names across sheets and re-merging for a complete match.
+
+Updated Missing Data: Manually updated the Region value for the Gambia country in the 2019 sheet using external data, as no internal reference was available.
+
+Final Master Table Creation:
+
+Added a Year column to each processed sheet, entering the corresponding reporting year.
+Appended all individual year tables into a single, comprehensive table named Master.
+
 🚀 How to Use
 
 -Clone or download this repository.
